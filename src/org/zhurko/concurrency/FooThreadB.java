@@ -1,6 +1,7 @@
 package org.zhurko.concurrency;
 
 public class FooThreadB implements Runnable {
+
     Foo f;
     String name;
 

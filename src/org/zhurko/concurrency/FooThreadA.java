@@ -1,8 +1,7 @@
 package org.zhurko.concurrency;
 
-import java.util.concurrent.Semaphore;
-
 public class FooThreadA implements Runnable {
+
     Foo f;
     String name;
 
